@@ -1,0 +1,41 @@
+.card {
+    background: rgba(168, 31, 31, 0.835);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    text-align: center;
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+.card-hover {
+    text-align: center;
+    background: rgba(92, 11, 11, 0.835);
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.2);
+    transition: 0.3s; 
+    border-radius: 3px;
+    font-family: Roboto, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.content-header {
+    padding-left: 3rem;
+    text-align: center;
+    align-content: center;
+    color: white;
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 21px;
+}
+
+.content {
+    text-align: center;
+    color: white;
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.content-footer {
+    text-align: center;
+    color: white;
+    font-family: Roboto, Helvetica, sans-serif;
+    font-size: smaller;
+}
